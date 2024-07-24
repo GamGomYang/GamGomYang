@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/GamGomYang)
+![Leetcode Stats](https://leetcard.jacoblin.cool/GamGomYang?ext=activity)
