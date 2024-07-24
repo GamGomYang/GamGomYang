@@ -1,1 +1,1 @@
-![Leetcode Stats]([https://leetcode.com/u/gamgomyang/])
+![Leetcode Stats](https://leetcard.jacoblin.cool/GamGomYang)
