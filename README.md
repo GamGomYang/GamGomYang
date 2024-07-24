@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/GamGomYang?ext=activity,theme=forest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/GamGomYang?theme=forest&font=Skranji&ext=activity)
