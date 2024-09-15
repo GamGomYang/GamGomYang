@@ -1,6 +1,6 @@
 ## Certifications
 
-- **SQLD Certified** (SQL Developer Certification)
+- **SQLD** (SQL Developer)
 
 ##
 
