@@ -1,8 +1,9 @@
-## Certifications
+## Geum young Kim
+
+**Certification**
 
 - **SQLD** (SQL Developer)
 
-##
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
