@@ -1,7 +1,7 @@
-## Kim geum young
+## I'm Kim geum young
+
 
 **Certification**
-
 - **SQLD** (SQL Developer)
 
 
