@@ -1,8 +1,7 @@
 ## I'm Kim geum young
 
 
-**Certification**
-- **SQLD** (SQL Developer)
+
 
 
 <div align="center">
